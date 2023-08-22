@@ -11,10 +11,10 @@ function saveReservationData() {
 
     const xmlString = `
         <details>
-            <fullName>${Name}</fullName>
-            <year>${Year}</year>
-            <branch>${Branch}</branch>
-            <college>${College}</college>
+            <fullName >${Name}</fullName>
+            <year >${Year}</year>
+            <branch  >${Branch}</branch>
+            <college >${College}</college>
         </details>
     `;
 
