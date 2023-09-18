@@ -1,0 +1,5 @@
+127.0.0.1 - - [18/Sep/2023:14:04:05 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [18/Sep/2023:14:05:01 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [18/Sep/2023:14:05:15 +0530] "GET /TestWS/services/Calculator?wsdl HTTP/1.1" 200 4323
+127.0.0.1 - - [18/Sep/2023:14:05:16 +0530] "GET /TestWS/services/Calculator?wsdl HTTP/1.1" 200 4323
+127.0.0.1 - - [18/Sep/2023:14:09:27 +0530] "POST /TestWS/services/Calculator.CalculatorHttpSoap11Endpoint/ HTTP/1.1" 200 263
